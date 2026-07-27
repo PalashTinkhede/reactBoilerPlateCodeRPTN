@@ -1,7 +1,8 @@
 # Vite + React Boilerplate
 
 A modern, production-ready starter template for **Vite** and **React** applications using **npm** and **JavaScript (JSX)**.
-hi
+hiii
+
 ## Table of Contents
 
 - [Overview](#overview)
